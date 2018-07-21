@@ -4,11 +4,11 @@
 
 # Header Menu
 menu:
-  Home: /
-  Archives: archives
-  Categories: categories
-  Tags: tags
-  About: about
+  主页: /
+  归档: archives
+  分类: categories
+  标签: tags
+  # 关于: about
 rss: /atom.xml
 
 since: 2013
@@ -53,7 +53,7 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- search
+# - search
 - social
 - recent_posts
 - category
@@ -65,15 +65,15 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
-  Weibo: http://www.yoursite.com
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
-  email:
+  # Github: https://github.com/iTimeTraveler
+  # Weibo: http://www.yoursite.com
+  # Twitter: 
+  # Facebook: 
+  # Google-plus: 
+  # Instagram: 
+  # Pinterest: 
+  # Flickr: 
+  # email:
 
 
 # Search
@@ -135,7 +135,7 @@ google_analytics:
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-busuanzi_analytics: true
+busuanzi_analytics: 
 twitter:
 google_plus:
 fb_admins:
