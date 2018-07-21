@@ -4,16 +4,16 @@
 
 # Site
 title: 数据可视化
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+subtitle: 数据可视化
+description: 数据可视化
+keywords: 数据可视化
+author: 杨琼
+language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.dataworld360.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hipaper
+theme: hiero
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
